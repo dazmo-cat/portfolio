@@ -1,0 +1,25 @@
+* {
+  background-color: #888888;
+  color: #000000
+}
+
+.title, .description {
+  text-align: center;
+}
+
+.s1, .s2, .s3 {
+  display: block;
+}
+
+textarea {
+  display: block;
+  background-color: white;
+}
+
+#submit {
+  background-color: black;
+  color: white;
+}
+
+
+
