@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta Charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+  <title>Simple Survey Form</title>
+</head>
+<h1 class="title" id="title">My First HTML Project</h1>
+<p class ="description" id="description">This is just a simple survey form</p>
+<form id="survey-form">
+  <label for="name" class="s1" id="name-label">Please enter your name: <input required type="text" class="s1" placeholder="First and last name" id="name"></label>
+  <label for="email" class="s1" id="email-label">Email (I promise I won't contact you): <input type= "email" required class="s1" placeholder="Valid email" id="email"></label>
+  <label for="number" class="s1" id="number-label">Enter a number between 1 and 999: <input type="number" pattern="[1-9]" min="1" max="999" class="s1" placeholder="Number (1-999)" id="number"></label>
+  <label for="dropdwn" class="s1">Choose the best flavor of coffee: <select id="dropdown" class="s1">
+    <option>(select)</option>
+    <option>Light Cream</option>
+    <option>Heavy Cream</option>
+    <option>Black</option>
+<label for="r1" class="s2"><input checked id="r1" type="radio" name="radio" value="r1">I work best in a team environment</input></label>
+<label for="r2" class="s2"><input id="r2" type="radio" name="radio" value="r2">I do my best work alone</input></label>
+<label for="r3" class="s2"><input id="r3" type="radio" name="radio" value="r3">I prefer to convince others to do work for me</input></label>
+<label for="v1" class="s3"><input id="v1" type="checkbox" value="1">I like coding in HTML</label>
+<label for="v2"class="s3"> <input id="v2" type="checkbox" value="2">I Like using CSS for styling</label>
+<label for="v3"class="s3"><input id="v3" type="checkbox" value="3">I look forward to learning JavaScript</label>
+<textarea rows="4" cols="40" placeholder="Add a comment and click Submit..."></textarea>
+<button id="submit" name="Submit">Submit</button>
+</form>
+<hr></hr>
+<footer>Page created by Keith Gregory in February of 2025
+</footer>
+</html>
+
