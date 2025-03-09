@@ -15,7 +15,7 @@
 }
 
 #welcome-section {
-  background-color: gray;
+  background-color: lightgray;
   text-align: center;
   height: 100vh;
   width: 100vw;
@@ -30,21 +30,21 @@ h2 {
   center;
 }
 #navbar {
-  background-color: gray;
+  background-color: lightgray;
   overflow: hidden;
   position: fixed;
 }
 
 #navbar a {
   float: left;
-  color: transparent;
+  color: gray;
   text-align: center;
   padding: 14px 16px;
   font-size: 17px
 }
 
 #navbar a:hover {
-  background-color: gray;
+  background-color: lightgray;
   color: black;
 }
 
@@ -54,21 +54,19 @@ h2 {
 }
 
 #navbar a.inactive {
-  background-color: gray;
+  background-color: blue;
   color: blue;
 
 #projects {
   height: 100vh;
   width: 100vw;
-  background-color: gray;
+  background-color: lightgray;
   color: black;
 }
 
 .project-tile {
   display: flex;
-  align-items: center;
-  justify-items: center;
-  item-spacing: space-evenly;
+  align-items: space-around;
 
 .future {
   background-color: lightgray;
