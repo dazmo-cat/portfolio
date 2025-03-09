@@ -64,5 +64,9 @@ h2 {
   color: black;
 }
 
-
+.project-tile {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  item-spacing: space-evenly;
 
