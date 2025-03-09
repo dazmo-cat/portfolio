@@ -1,5 +1,5 @@
 * {
-  background-color: gray;
+  background-color: linear-gradient(blue 0%, blue 25%, lightgreen 25%, lightgreen 40%, purple 40%, purple 100%);
 }
 
 @media (max-width: 768px) {
