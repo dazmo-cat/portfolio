@@ -1,5 +1,5 @@
 * {
-  background-color: linear-gradient(blue 0%, blue 25%, lightgreen 25%, lightgreen 40%, purple 40%, purple 100%);
+  background-color: lightgray; 
 }
 
 @media (max-width: 768px) {
@@ -37,7 +37,7 @@ h2 {
 
 #navbar a {
   float: left;
-  color: white;
+  color: transparent;
   text-align: center;
   padding: 14px 16px;
   font-size: 17px
@@ -52,6 +52,10 @@ h2 {
   background-color: white;
   color: black;
 }
+
+#navbar a.inactive {
+  background-color: gray;
+  color: blue;
 
 #projects {
   height: 100vh;
