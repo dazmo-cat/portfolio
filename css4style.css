@@ -4,3 +4,9 @@
   
 .return {
   color: blue;
+
+  a {
+    color: blue
+
+  a:hover {
+    color: black;
