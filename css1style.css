@@ -63,11 +63,14 @@ h2 {
   width: 100vw;
   background-color: lightgray;
   color: black;
+  padding-top: 20px;
 }
 
 .project-tile {
   display: flex;
   align-items: space-around;
+  height:90%;
+  width:90%;
 }
 
 .future {
