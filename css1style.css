@@ -80,9 +80,13 @@ h2 {
   color: blue;
   
 #surveypic {
-  height: 6px;
-  width: 3px;
+  height: 10%;
+  width: auto;
 
 #productpic {
-  height: 6px;
-  width: 3px;
+  height: 10%;
+  width: auto;
+
+.project-tile {
+  width: 100vw;
+  height: 100vh;
