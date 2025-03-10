@@ -1,6 +1,6 @@
 * {
-  background-color: #888888;
-  color: #000000;
+  background-color: lightgray;
+  color: black;
 }
 
 .title, .description {
@@ -9,11 +9,16 @@
 
 .s1, .s2, .s3 {
   display: block;
+  padding-top: 2px;
+  padding-bottom:2px;
 }
+
+
 
 textarea {
   display: block;
   background-color: white;
+  padding-top: 2px;
 }
 
 #submit {
