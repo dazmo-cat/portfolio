@@ -1,22 +1,28 @@
 * {
   background-color: lightgray;
   color: black;
+}
 
 header {
   font-size: 10px;
+}
 
 h1 {
   font-size: 8px;
+}
 
 h2 {
   font-size: 8px;
-  
+}  
   
 .return {
   color: blue;
+}
 
   a {
     color: blue;
+  }
 
   a:hover {
     color: black;
+  }
