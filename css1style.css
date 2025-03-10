@@ -56,6 +56,7 @@ h2 {
 #navbar a.visited {
   background-color: blue;
   color: black;
+}
 
 #projects {
   height: 100vh;
@@ -67,26 +68,33 @@ h2 {
 .project-tile {
   display: flex;
   align-items: space-around;
+}
 
 .future {
   background-color: lightgray;
   color: black;
+}
 
 .contact {
   background-color: lightgray;
   color: black;
+}
 
 .a {
   color: blue;
-  
+}
+
 #surveypic {
   height: 10%;
   width: auto;
+}
 
 #productpic {
   height: 10%;
   width: auto;
+}
 
 .project-tile {
   width: 100vw;
   height: 100vh;
+}
