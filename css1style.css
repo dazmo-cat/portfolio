@@ -70,11 +70,13 @@ h2 {
 .future {
   background-color: lightgray;
   color: black;
+  padding-top: 20px;
 }
 
 .contact {
   background-color: lightgray;
   color: black;
+  padding-top: 20px;
 }
 
 .a {
@@ -82,20 +84,20 @@ h2 {
 }
 
 #surveypic {
-  height: 90%;
+  height: 50%;
   width: auto;
   margin-right: 50px;
 }
 
 #tributepic {
-  height: 90%;
+  height: 50%;
   width: auto;
   margin-right: 75px;
   margin-left: 75px;
 }
 
 #productpic {
-  height: 90%;
+  height: 50%;
   width: auto;
   margin-left: 50px;
 }
