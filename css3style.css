@@ -3,12 +3,9 @@ background-color: purple;
 color: lightblue;
 }
 
-div {
-  height: 300px;
-  width: 300px;
+img {
+  height: 30px;
+  width: auto;
+  
 }
 
-img {
-  height: 25%;
-  width: 25%:
-}
