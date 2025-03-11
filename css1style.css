@@ -91,20 +91,20 @@ h2 {
 #surveypic {
   height: 90%;
   width: auto;
-  margin-right: 50px;
+  margin-right: 25%;
 }
 
 #tributepic {
   height: 90%;
   width: auto;
-  margin-right: 50px;
-  margin-left: 50px;
+  margin-right: 25%;
+  margin-left: 25%;
 }
 
 #productpic {
   height: 90%;
   width: auto;
-  margin-left: 50px;
+  margin-left: 25%;
 }
 
 
