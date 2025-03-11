@@ -59,7 +59,7 @@ h2 {
 }
 
 #projects {
-  height: 100vh;
+  height: 50vh;
   width: 100vw;
   background-color: lightgray;
   color: black;
@@ -68,7 +68,7 @@ h2 {
 
 .project-tile {
   display: flex;
-  align-items: space-evenly;
+  justify-content: space-evenly;
   height:90%;
   width:90%;
   margin-left: auto;
