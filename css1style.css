@@ -91,6 +91,7 @@ h2 {
 #surveypic {
   height: 90%;
   width: auto;
+  margin-right: 15px;
 }
 
 #tributepic {
@@ -101,6 +102,7 @@ h2 {
 #productpic {
   height: 90%;
   width: auto;
+  margin-left: 15px;
 }
 
 
