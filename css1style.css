@@ -68,9 +68,11 @@ h2 {
 
 .project-tile {
   display: flex;
-  align-items: space-around;
+  align-items: space-evenly;
   height:90%;
   width:90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .future {
