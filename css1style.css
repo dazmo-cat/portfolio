@@ -59,19 +59,12 @@ h2 {
 }
 
 #projects {
-  height: 50vh;
+  height: 75vh;
   width: 100vw;
   background-color: lightgray;
   color: black;
   padding-top: 20px;
-}
-
-.project-tile {
   align-items: center;
-  height:90%;
-  width:80%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .future {
