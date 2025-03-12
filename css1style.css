@@ -87,6 +87,7 @@ h2 {
   height: 150px;
   width: auto;
   margin-right: 50px;
+  margin-left: auto;
 }
 
 #tributepic {
@@ -100,6 +101,7 @@ h2 {
   height: 150px;
   width: auto;
   margin-left: 50px;
+  margin-right: auto;
 }
 
 
