@@ -84,20 +84,20 @@ h2 {
 }
 
 #surveypic {
-  height: 50%;
+  height: 150px;
   width: auto;
   margin-right: 50px;
 }
 
 #tributepic {
-  height: 50%;
+  height: 150px;
   width: auto;
   margin-right: 75px;
   margin-left: 75px;
 }
 
 #productpic {
-  height: 50%;
+  height: 150px;
   width: auto;
   margin-left: 50px;
 }
