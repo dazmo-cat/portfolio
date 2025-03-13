@@ -18,7 +18,7 @@
   background-color: lightgray;
   text-align: center;
   height: 80vh;
-  width: 75vw;
+  width: 100vw;
   padding-top: 200px;
 }
 
@@ -83,6 +83,13 @@ h2 {
 a {
   color: blue;
 }
+
+img {
+  display: block;
+}
+
+footer {
+  text-align: center;
 
 #surveypic {
   height: 125px;
