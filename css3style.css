@@ -6,6 +6,15 @@ color: lightblue;
 img {
   height: 150px;
   width: auto;
-  
+}
+
+.boxbag {
+  width: 150px;
+  height: auto;
+}
+
+.bag {
+  height: auto;
+  width: 150px;
 }
 
