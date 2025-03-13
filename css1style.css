@@ -65,7 +65,7 @@ h2 {
   color: black;
   padding-top: 20px;
   margin: auto;
-  text-align: enter;
+  text-align: center;
 }
 
 #future {
@@ -86,6 +86,8 @@ a {
 
 img {
   display: block;
+  height: 125px;
+  width: auto;
 }
 
 footer {
