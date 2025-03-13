@@ -1,5 +1,6 @@
 * {
   background-color: lightgray; 
+  text-align: center;
 }
 
 @media (max-width: 768px) {
@@ -93,25 +94,5 @@ img {
 footer {
   text-align: center;
 
-#surveypic {
-  height: 125px;
-  width: auto;
-  margin-right: 50px;
-  margin-left: auto;
-}
-
-#tributepic {
-  height: 125px;
-  width: auto;
-  margin-right: 75px;
-  margin-left: 75px;
-}
-
-#productpic {
-  height: 125px;
-  width: auto;
-  margin-left: 50px;
-  margin-right: auto;
-}
 
 
