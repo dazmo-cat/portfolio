@@ -91,6 +91,10 @@ img {
   width: auto;
 }
 
+#fprojects {
+  height: auto;
+  width: 250px;
+
 footer {
   text-align: center;
 
