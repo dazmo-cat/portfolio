@@ -64,7 +64,7 @@ h2 {
   width: 100vw;
   background-color: lightgray;
   color: black;
-  padding-top: 20px;
+  padding-top: 200px;
   text-align: center;
 }
 
@@ -90,20 +90,16 @@ img {
   display: inline-block;
   height: 125px;
   width: auto;
+  border-radius: 5%;
 }
 
 figure {
   display: inline-block;
-  border: 1px solid black;
-  margin: 50px;
+  margin: 25px;
 }
 
 figure img {
   vertical-align: top;
-}
-
-figure figcaption {
-  border: 1px solid black;
 }
 
 #fprojects {
