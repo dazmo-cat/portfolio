@@ -88,16 +88,25 @@ a {
 }
 
 img {
-  display: block;
+  display: inline-block;
   height: 125px;
   width: auto;
 }
 
 figure {
-  text-align: center;
   display: inline-block;
-  
+  border: 1px solid black;
+  margin: 50px;
 }
+
+figure img {
+  vertical-align: top;
+}
+
+figure figcaption {
+  border: 1px solid black
+}
+
 #fprojects {
   height: auto;
   width: 250px;
