@@ -65,7 +65,6 @@ h2 {
   background-color: lightgray;
   color: black;
   padding-top: 20px;
-  margin: auto;
   text-align: center;
 }
 
@@ -74,7 +73,7 @@ h2 {
   width: 100vw;
   background-color: lightgray;
   color: black;
-  padding-top: 20px;
+  padding-top: 200px;
 }
 
 #contact {
@@ -104,15 +103,14 @@ figure img {
 }
 
 figure figcaption {
-  border: 1px solid black
+  border: 1px solid black;
 }
 
 #fprojects {
-  height: auto;
   width: 250px;
+}
 
 footer {
   text-align: center;
-
-
+}
 
