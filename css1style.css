@@ -93,6 +93,11 @@ img {
   width: auto;
 }
 
+figure {
+  text-align: center;
+  display: inline-block;
+  
+}
 #fprojects {
   height: auto;
   width: 250px;
